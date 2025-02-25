@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BuildTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-generate -s PekoEngine -p Runtime -o \"C:\\Users\\Josh\\Desktop\\Peko\" -i \"C:\\Users\\Josh\\Desktop\\Peko\\Engine\\Source\\Runtime\""
+    }
+  }
+}
